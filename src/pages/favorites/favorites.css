@@ -1,0 +1,38 @@
+.my-moves {
+   margin-top: 24px; 
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+}
+
+.my-moves h1 {
+    margin-bottom: 14px;
+}
+
+.my-moves span {
+    font-size: 18px;
+}
+
+.my-moves ul {
+    width: 720px;
+}
+
+.my-moves ul li {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 14px;
+}
+
+.my-moves div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.my-moves div a {
+    text-decoration: none;
+    color: #116fdb;
+    margin-right: 14px;
+}
